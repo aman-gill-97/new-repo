@@ -1,1 +1,3 @@
+this a new change commited by aman
+another line being added on sugges
 Adding a line just to demonstrate the concept of merge conflicts.
